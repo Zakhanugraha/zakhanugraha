@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I consider myself as Backend Cheerleader 
 <!--
 **Zakhanugraha/zakhanugraha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
